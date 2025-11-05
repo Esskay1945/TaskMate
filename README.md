@@ -1,4 +1,4 @@
-#📝 TaskMate — A Simple Task Manager
+📝 TaskMate — A Simple Task Manager
 
 TaskMate is a lightweight Python-based task manager that helps you organize your daily to-dos efficiently.
 It uses SQLite as a local database to store tasks with their names, due dates, and completion status.
