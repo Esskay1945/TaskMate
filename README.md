@@ -16,7 +16,7 @@ SQLite3 (built-in database module)
 🖥️ How to Run
 Clone the repository:
 
-git clone https://github.com/yourusername/TaskMate.git
+git clone https://github.com/Esskay1945/TaskMate.git
 cd TaskMate
 
 Run the script:
